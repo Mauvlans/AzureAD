@@ -4,7 +4,6 @@
 # This collects the users Enabled in the Legacy MultiFactor Authentication 
 # Page in Azure Active Directory.
 #
-#
 # ------------- DISCLAIMER -------------------------------------------------
 # This script code is provided as is with no guarantee or waranty concerning
 # the usability or impact on systems and may be used, distributed, and
